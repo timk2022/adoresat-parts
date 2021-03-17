@@ -1,0 +1,21 @@
+{
+    "gates": {
+        "ad64ba31-a70e-4d47-a3d6-ab68be538e38": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "665b1d01-76b7-438e-b11a-0609243a4b6a"
+        }
+    },
+    "manufacturer": "PNI",
+    "name": "RM3100",
+    "prefix": "M",
+    "tags": [
+        "board",
+        "breakout",
+        "ic",
+        "magnetometer"
+    ],
+    "type": "entity",
+    "uuid": "acfd03e7-3b8c-4635-92d2-7e5c81b49e22"
+}

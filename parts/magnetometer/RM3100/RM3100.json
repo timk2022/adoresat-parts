@@ -1,0 +1,97 @@
+{
+    "MPN": [
+        false,
+        "RM3100"
+    ],
+    "datasheet": [
+        false,
+        "https://www.pnicorp.com/wp-content/uploads/RM3100-Testing-Boards-User-Manual-r04-1.pdf"
+    ],
+    "description": [
+        false,
+        "RM3100 magnetometer breakout board"
+    ],
+    "entity": "acfd03e7-3b8c-4635-92d2-7e5c81b49e22",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "PNI"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "42590f54-51af-4839-8b6c-01705e47d293": "RM3100"
+    },
+    "package": "da6fc843-9691-4ec4-81d2-afa6774e667a",
+    "pad_map": {
+        "1614a183-08b6-4c02-81e4-4ab517012001": {
+            "gate": "ad64ba31-a70e-4d47-a3d6-ab68be538e38",
+            "pin": "bc1d81b9-9c21-47bb-9601-80d34d5a649c"
+        },
+        "1f7d5961-b81a-4780-9c4c-5aa46e070056": {
+            "gate": "ad64ba31-a70e-4d47-a3d6-ab68be538e38",
+            "pin": "4713c999-ab8f-468c-ba3b-a0d705bc53db"
+        },
+        "21a5195e-a077-4a6d-9048-dc681987b98d": {
+            "gate": "ad64ba31-a70e-4d47-a3d6-ab68be538e38",
+            "pin": "97cdce68-41c1-49f3-b2a6-a4dc892cf1e9"
+        },
+        "7c6ac6e6-c673-4a21-a622-dc95f7219df6": {
+            "gate": "ad64ba31-a70e-4d47-a3d6-ab68be538e38",
+            "pin": "bedeb23b-5055-4884-9c3c-b5fea228a01c"
+        },
+        "7ce5220c-650b-4ce8-9c85-2ea5fecfa714": {
+            "gate": "ad64ba31-a70e-4d47-a3d6-ab68be538e38",
+            "pin": "9e45215b-83fc-4f33-8fb7-73f7c06a58fc"
+        },
+        "840f2ecb-298d-4870-9858-49001b03ca06": {
+            "gate": "ad64ba31-a70e-4d47-a3d6-ab68be538e38",
+            "pin": "90837f8f-1a34-43a7-a729-310be90ff8fe"
+        },
+        "96f22679-d4ad-4173-a5c5-8edeeaf8c403": {
+            "gate": "ad64ba31-a70e-4d47-a3d6-ab68be538e38",
+            "pin": "9785ea4f-7de3-40e1-b4af-a1fbcbc2bab5"
+        },
+        "9b129a21-3c83-44fc-9f53-706e10177f09": {
+            "gate": "ad64ba31-a70e-4d47-a3d6-ab68be538e38",
+            "pin": "8167172d-f638-4d1f-8096-caf780a87020"
+        },
+        "9bc8bc41-92f7-4133-808f-36cdc37ab535": {
+            "gate": "ad64ba31-a70e-4d47-a3d6-ab68be538e38",
+            "pin": "89afe788-5bfa-4362-9902-4f5f31a488f2"
+        },
+        "9bca9b88-6d82-4250-a799-8dd7e29d5f4e": {
+            "gate": "ad64ba31-a70e-4d47-a3d6-ab68be538e38",
+            "pin": "875336d2-fa84-4c1d-aa65-825ed2f9ea0b"
+        },
+        "c81c45ef-356b-4b14-b8b2-4bc0a33b7489": {
+            "gate": "ad64ba31-a70e-4d47-a3d6-ab68be538e38",
+            "pin": "ec45093f-b9d4-455c-b112-72312d3daab9"
+        },
+        "cc9a1425-4662-43ad-b87d-f05d5a9e3eb0": {
+            "gate": "ad64ba31-a70e-4d47-a3d6-ab68be538e38",
+            "pin": "8bfb0561-d636-4aa4-9afd-ece8b2f3b600"
+        },
+        "e67c0ba4-53a8-4a62-bbe5-7432803b1257": {
+            "gate": "ad64ba31-a70e-4d47-a3d6-ab68be538e38",
+            "pin": "e3c064d3-faab-42ac-8e77-9635dd7aa2e1"
+        },
+        "fc5aad8d-9561-4a9a-b22e-c882a59021cb": {
+            "gate": "ad64ba31-a70e-4d47-a3d6-ab68be538e38",
+            "pin": "e45da1ec-ecdf-4f29-be98-b834efeaa9b4"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "board",
+        "breakout",
+        "ic",
+        "magnetometer"
+    ],
+    "type": "part",
+    "uuid": "c159efb1-9b08-482e-a7bb-dcdc77bc1465",
+    "value": [
+        false,
+        ""
+    ]
+}

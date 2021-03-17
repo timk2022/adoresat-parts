@@ -1,0 +1,113 @@
+{
+    "manufacturer": "PNI",
+    "name": "RM3100",
+    "pins": {
+        "4713c999-ab8f-468c-ba3b-a0d705bc53db": {
+            "direction": "power_input",
+            "names": [
+                "AVDD"
+            ],
+            "primary_name": "13",
+            "swap_group": 0
+        },
+        "8167172d-f638-4d1f-8096-caf780a87020": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "6",
+            "swap_group": 0
+        },
+        "875336d2-fa84-4c1d-aa65-825ed2f9ea0b": {
+            "direction": "passive",
+            "names": [
+                "DVSS"
+            ],
+            "primary_name": "14",
+            "swap_group": 0
+        },
+        "89afe788-5bfa-4362-9902-4f5f31a488f2": {
+            "direction": "output",
+            "names": [
+                "DRDY"
+            ],
+            "primary_name": "5",
+            "swap_group": 0
+        },
+        "8bfb0561-d636-4aa4-9afd-ece8b2f3b600": {
+            "direction": "input",
+            "names": [
+                "SCK"
+            ],
+            "primary_name": "1",
+            "swap_group": 0
+        },
+        "90837f8f-1a34-43a7-a729-310be90ff8fe": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "8",
+            "swap_group": 0
+        },
+        "9785ea4f-7de3-40e1-b4af-a1fbcbc2bab5": {
+            "direction": "input",
+            "names": [
+                "I2CEN"
+            ],
+            "primary_name": "10",
+            "swap_group": 0
+        },
+        "97cdce68-41c1-49f3-b2a6-a4dc892cf1e9": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "11",
+            "swap_group": 0
+        },
+        "9e45215b-83fc-4f33-8fb7-73f7c06a58fc": {
+            "direction": "power_input",
+            "names": [
+                "DVDD"
+            ],
+            "primary_name": "12",
+            "swap_group": 0
+        },
+        "bc1d81b9-9c21-47bb-9601-80d34d5a649c": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "9",
+            "swap_group": 0
+        },
+        "bedeb23b-5055-4884-9c3c-b5fea228a01c": {
+            "direction": "input",
+            "names": [
+                "SSN",
+                "R7"
+            ],
+            "primary_name": "4",
+            "swap_group": 0
+        },
+        "e3c064d3-faab-42ac-8e77-9635dd7aa2e1": {
+            "direction": "passive",
+            "names": [
+                "AVSS"
+            ],
+            "primary_name": "7",
+            "swap_group": 0
+        },
+        "e45da1ec-ecdf-4f29-be98-b834efeaa9b4": {
+            "direction": "output",
+            "names": [
+                "SO"
+            ],
+            "primary_name": "2",
+            "swap_group": 0
+        },
+        "ec45093f-b9d4-455c-b112-72312d3daab9": {
+            "direction": "input",
+            "names": [
+                "SI"
+            ],
+            "primary_name": "3",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "665b1d01-76b7-438e-b11a-0609243a4b6a"
+}
