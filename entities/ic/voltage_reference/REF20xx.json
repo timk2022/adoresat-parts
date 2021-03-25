@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "89bcd70a-788f-4c41-9165-3a253f8b7a1f": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "ff8d3178-9fad-4e07-8b89-dee5b3b0b7c2"
+        }
+    },
+    "manufacturer": "TI",
+    "name": "REF20xx",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "voltage reference"
+    ],
+    "type": "entity",
+    "uuid": "dbda2093-7418-45ef-b302-de70bb46b307"
+}

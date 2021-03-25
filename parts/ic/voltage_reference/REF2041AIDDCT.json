@@ -1,0 +1,59 @@
+{
+    "MPN": [
+        false,
+        "REF2041AIDDCT"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/ds/symlink/ref2041.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1616643579535&ref_url=https%253A%252F%252Fwww.mouser.com%252F"
+    ],
+    "description": [
+        false,
+        "Voltage Reference"
+    ],
+    "entity": "dbda2093-7418-45ef-b302-de70bb46b307",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "TI"
+    ],
+    "model": "ce635b96-7b31-47c0-9427-7af879b20b21",
+    "orderable_MPNs": {
+        "c27489df-91e7-40cf-aa47-c03a40301558": "REF2041AIDDCT"
+    },
+    "package": "8aa47749-bbee-4b93-a89f-5b1790852987",
+    "pad_map": {
+        "114eb294-714a-4b63-9af7-64283410076d": {
+            "gate": "89bcd70a-788f-4c41-9165-3a253f8b7a1f",
+            "pin": "7a740378-35fe-400c-bf02-a07307e92baa"
+        },
+        "2d3ec7b9-736d-423e-8d49-ef3e8b43dbc1": {
+            "gate": "89bcd70a-788f-4c41-9165-3a253f8b7a1f",
+            "pin": "153febf1-eaca-40e8-b55e-c76fd3583b4a"
+        },
+        "a0b72ee7-5eef-454a-8e13-3b6b179ec59e": {
+            "gate": "89bcd70a-788f-4c41-9165-3a253f8b7a1f",
+            "pin": "1647cb03-4e00-41a4-841b-fff09fef5002"
+        },
+        "e473499e-738a-4d73-a2d4-c6e8ec8cf278": {
+            "gate": "89bcd70a-788f-4c41-9165-3a253f8b7a1f",
+            "pin": "506298a5-69bb-449b-92c2-cb04b4d060ca"
+        },
+        "fcb47e6a-edb8-471b-923e-667f6c933d2e": {
+            "gate": "89bcd70a-788f-4c41-9165-3a253f8b7a1f",
+            "pin": "7e8b874d-44bb-42c5-9f44-32aab868db90"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "voltage reference"
+    ],
+    "type": "part",
+    "uuid": "6267801e-65fe-496d-8f35-73d66509eb9a",
+    "value": [
+        false,
+        "REF2041"
+    ]
+}
