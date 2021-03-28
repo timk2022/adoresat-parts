@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "5f3f7c8d-a4b5-4144-b5c9-1258e6fed82c": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "be1018fa-da33-46e5-ab6b-5953dd7b44a4"
+        }
+    },
+    "manufacturer": "Nexperia",
+    "name": "PESD3V3X4",
+    "prefix": "D",
+    "tags": [
+        "diode",
+        "tvs"
+    ],
+    "type": "entity",
+    "uuid": "6a5d374b-ec21-41a1-92c1-b0b6f00a2014"
+}

@@ -1,0 +1,64 @@
+{
+    "MPN": [
+        false,
+        "PESD3V3X4UHC"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/916/PESD3V3X4UHC-1648444.pdf"
+    ],
+    "description": [
+        false,
+        "TVS Diode"
+    ],
+    "entity": "6a5d374b-ec21-41a1-92c1-b0b6f00a2014",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Nexperia"
+    ],
+    "model": "31145ab6-ab8e-41b4-a39f-59f48392461f",
+    "orderable_MPNs": {
+        "2662ba22-a7b5-4fa3-ae97-bf4e5621dec7": "PESD3V3X4UHC"
+    },
+    "package": "d43bda79-5f1c-4615-a508-bbc748184036",
+    "pad_map": {
+        "142d05d1-9530-45ac-88bb-dee9e0a23629": {
+            "gate": "5f3f7c8d-a4b5-4144-b5c9-1258e6fed82c",
+            "pin": "746cb0f8-a6ac-4cc3-bc34-683eef8ee529"
+        },
+        "20dcafd4-7252-4347-97f3-c081901ad7c7": {
+            "gate": "5f3f7c8d-a4b5-4144-b5c9-1258e6fed82c",
+            "pin": "d0678dce-4fc7-4e92-8b07-bb53568e7ddc"
+        },
+        "470431f4-767b-472a-a50e-a46362784de2": {
+            "gate": "5f3f7c8d-a4b5-4144-b5c9-1258e6fed82c",
+            "pin": "905c8f13-1207-46cb-bd35-9daa8ee7d699"
+        },
+        "74e139e1-8db2-46aa-8200-0a3c832cc065": {
+            "gate": "5f3f7c8d-a4b5-4144-b5c9-1258e6fed82c",
+            "pin": "59008bf6-f842-4d26-b3b0-451fd591e272"
+        },
+        "9cedb706-baac-4101-97f6-9aac92a528d1": {
+            "gate": "5f3f7c8d-a4b5-4144-b5c9-1258e6fed82c",
+            "pin": "48903c44-b1b4-42d8-b74b-7cf118bb0ccb"
+        },
+        "af66b624-9a83-400a-8e4b-9d28ebf7a584": {
+            "gate": "5f3f7c8d-a4b5-4144-b5c9-1258e6fed82c",
+            "pin": "66cf2f4d-1a0a-4daa-9272-51bacfc8d6d8"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "diode",
+        "passive",
+        "tvs"
+    ],
+    "type": "part",
+    "uuid": "a12c8ebb-3c22-4d48-aec0-b18dec22be90",
+    "value": [
+        false,
+        "3.3 V TVS Diode"
+    ]
+}
