@@ -1,0 +1,38 @@
+{
+    "MPN": [
+        false,
+        "CRCW0603470RFKEAC"
+    ],
+    "base": "68272fa5-b674-4b57-a892-80c09c6e59d1",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/427/crcwce3-1762584.pdf"
+    ],
+    "description": [
+        false,
+        "Thick Film Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Vishay / Dale"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "d41c8a6e-965c-4cdb-a75f-f336c678e3ef": "CRCW0603470RFKEAC"
+    },
+    "parametric": {
+        "pmax": "0.1",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "470"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "3a6787f5-b26d-4022-8682-db71058057e1",
+    "value": [
+        false,
+        "470 Ohm - 1% - 0.1 W"
+    ]
+}
