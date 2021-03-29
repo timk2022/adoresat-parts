@@ -36,7 +36,10 @@
         "tolerance": "0",
         "value": "0"
     },
-    "tags": [],
+    "tags": [
+        "passive",
+        "resistor"
+    ],
     "type": "part",
     "uuid": "daef1a95-dcdd-470f-b133-cc707370330b",
     "value": [

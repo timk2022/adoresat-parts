@@ -1,0 +1,38 @@
+{
+    "MPN": [
+        false,
+        "CRM2512-JW-4R7ELF"
+    ],
+    "base": "7acc9273-4b2c-4d34-8dc4-293b9b4dfaca",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/54/crm-1858657.pdf"
+    ],
+    "description": [
+        false,
+        "Current Sense Resistors"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Bourns"
+    ],
+    "model": "e5f9f686-392d-45db-8a15-2c626423d476",
+    "orderable_MPNs": {
+        "bdf5101a-ca4c-4a18-adcc-f395c461c35a": "CRM2512-JW-4R7ELF"
+    },
+    "parametric": {
+        "pmax": "2",
+        "table": "resistors",
+        "tolerance": "5",
+        "value": "4.7"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "c21ffb7e-9e1b-46d7-ad88-1eb143daee35",
+    "value": [
+        false,
+        "4.7 Ohm - 5% - 2 W"
+    ]
+}
