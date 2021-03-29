@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "Zener diode",
+    "pins": {
+        "47391d53-2e60-4723-8754-51f85a7e65aa": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        },
+        "fb6c9b05-1b03-402f-8ce2-6ba8c863701b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "K",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "70a8a43b-a664-4846-8aab-77a003fc440c"
+}

@@ -1,0 +1,48 @@
+{
+    "MPN": [
+        false,
+        "SZMMBZ5238BLT1G"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/308/MMBZ5221BLT1_D-1811688.pdf"
+    ],
+    "description": [
+        false,
+        "Zener Diode"
+    ],
+    "entity": "5796e0e1-213c-4028-9488-8347b4c571ed",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "On Semiconductor"
+    ],
+    "model": "8e06577c-94ab-4fc6-91c1-e9999ffbf19d",
+    "orderable_MPNs": {
+        "9942fc43-3c27-4997-a9df-682948e01cc1": "SZMMBZ5238BLT1G"
+    },
+    "package": "3d1177a3-346a-49d4-8aa7-61f6e09a0445",
+    "pad_map": {
+        "bf32943a-b001-464c-8d1a-71886a332961": {
+            "gate": "0bf94e6e-c553-4331-85ec-298d30fd605f",
+            "pin": "47391d53-2e60-4723-8754-51f85a7e65aa"
+        },
+        "eb5115cf-f3fe-41e9-a9c9-3783aecacf0b": {
+            "gate": "0bf94e6e-c553-4331-85ec-298d30fd605f",
+            "pin": "fb6c9b05-1b03-402f-8ce2-6ba8c863701b"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "diode",
+        "passive",
+        "zener"
+    ],
+    "type": "part",
+    "uuid": "cc0f6154-c169-40f2-ba22-59e66073a819",
+    "value": [
+        false,
+        "Zener - 8.7 Vz - 20 mA Iz"
+    ]
+}
