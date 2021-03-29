@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "28c460e7-24c0-4317-af01-c4f4d7b7144d": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "6de6cf05-4b22-4189-9843-ebdb50f3bc81"
+        }
+    },
+    "manufacturer": "",
+    "name": "P Channel MOSFET",
+    "prefix": "Q",
+    "tags": [
+        "generic",
+        "mosfet"
+    ],
+    "type": "entity",
+    "uuid": "e141c77a-85ab-4261-9636-aeed4da47ddb"
+}

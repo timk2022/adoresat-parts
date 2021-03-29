@@ -1,0 +1,50 @@
+{
+    "MPN": [
+        false,
+        "NTR5105PT1G"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/308/NTR5105P_D-1814292.pdf"
+    ],
+    "description": [
+        false,
+        "P Channel MOSFET"
+    ],
+    "entity": "e141c77a-85ab-4261-9636-aeed4da47ddb",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "On Semiconductor"
+    ],
+    "model": "8e06577c-94ab-4fc6-91c1-e9999ffbf19d",
+    "orderable_MPNs": {
+        "5497621a-6d32-443f-9377-730de90035e1": "NTR5105PT1G"
+    },
+    "package": "3d1177a3-346a-49d4-8aa7-61f6e09a0445",
+    "pad_map": {
+        "0df75ee1-7feb-4a47-9225-5ca3996b2e91": {
+            "gate": "28c460e7-24c0-4317-af01-c4f4d7b7144d",
+            "pin": "4331281c-4c9d-4b71-b6de-0a83cce78b98"
+        },
+        "bf32943a-b001-464c-8d1a-71886a332961": {
+            "gate": "28c460e7-24c0-4317-af01-c4f4d7b7144d",
+            "pin": "82cb66f5-2484-4fe3-832c-ad8790102955"
+        },
+        "eb5115cf-f3fe-41e9-a9c9-3783aecacf0b": {
+            "gate": "28c460e7-24c0-4317-af01-c4f4d7b7144d",
+            "pin": "1194f64b-0fbc-4247-bbb4-fa41e8640b9b"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "mosfet"
+    ],
+    "type": "part",
+    "uuid": "fa5674a3-004f-4a8b-9761-a5998785a929",
+    "value": [
+        false,
+        "-60 V, -211 mA PFET"
+    ]
+}
