@@ -1,0 +1,26 @@
+{
+    "manufacturer": "",
+    "name": "P Channel MOSFET",
+    "pins": {
+        "1194f64b-0fbc-4247-bbb4-fa41e8640b9b": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "D",
+            "swap_group": 0
+        },
+        "4331281c-4c9d-4b71-b6de-0a83cce78b98": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "S",
+            "swap_group": 0
+        },
+        "82cb66f5-2484-4fe3-832c-ad8790102955": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "G",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "6de6cf05-4b22-4189-9843-ebdb50f3bc81"
+}
