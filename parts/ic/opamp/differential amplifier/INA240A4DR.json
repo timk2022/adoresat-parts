@@ -1,0 +1,33 @@
+{
+    "MPN": [
+        false,
+        "INA240A4DR"
+    ],
+    "base": "f6dbc153-d0b3-4e7b-9963-539c21cd2be8",
+    "datasheet": [
+        true,
+        "https://www.ti.com/lit/ds/symlink/ina240.pdf?ts=1614664131588&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FINA240"
+    ],
+    "description": [
+        true,
+        "High-side Current Sense Amplifier"
+    ],
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        true,
+        "TI"
+    ],
+    "model": "5344bb4e-f190-4f5b-b387-3ec716177b89",
+    "orderable_MPNs": {
+        "0e72a8c9-a31d-4bb2-afdf-11697c124d3b": "INA240A4DR"
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "f1f58efa-b39a-4307-b664-65ecba4f15d5",
+    "value": [
+        false,
+        "100 kHz - 200V/V - 120 dB"
+    ]
+}
