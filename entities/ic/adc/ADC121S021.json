@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "965f419d-8034-441c-a0d7-569865ad3e57": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "d6c97f0c-a4f8-4ebf-8567-98900e89e801"
+        }
+    },
+    "manufacturer": "TI",
+    "name": "ADC121S021",
+    "prefix": "U",
+    "tags": [
+        "adc",
+        "ic"
+    ],
+    "type": "entity",
+    "uuid": "995b4718-3671-45e5-ba06-fd17cfca127c"
+}

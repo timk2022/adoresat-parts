@@ -1,0 +1,63 @@
+{
+    "MPN": [
+        false,
+        "ADC121S021CIMF"
+    ],
+    "datasheet": [
+        false,
+        "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fadc121s021"
+    ],
+    "description": [
+        false,
+        "12 Bit Single Channel ADC, 50 - 200 ksps"
+    ],
+    "entity": "995b4718-3671-45e5-ba06-fd17cfca127c",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "TI"
+    ],
+    "model": "32cb6dfb-367c-488f-a022-80eb6c8bbf76",
+    "orderable_MPNs": {
+        "9e17ba4b-0e97-4ca2-bd2f-59772bad9978": "ADC121S021CIMF/NOPB"
+    },
+    "package": "42c49e00-1c9f-4f5f-8ec0-702040b3ac7a",
+    "pad_map": {
+        "179a087b-d304-4651-bd68-1f15c3ebe954": {
+            "gate": "965f419d-8034-441c-a0d7-569865ad3e57",
+            "pin": "a735a472-dde7-42fc-bd12-e1e0d1b96789"
+        },
+        "341287a6-3a5c-490c-8db8-8965fd27e3e8": {
+            "gate": "965f419d-8034-441c-a0d7-569865ad3e57",
+            "pin": "0b8ba392-78f9-4cfa-a339-ec1da6659f82"
+        },
+        "87131a04-8d87-4cfe-9178-f63fb5899e0b": {
+            "gate": "965f419d-8034-441c-a0d7-569865ad3e57",
+            "pin": "38cd6467-f4ab-4e1b-970d-1538dade1136"
+        },
+        "b082c171-3282-4658-8898-f044e6b9ec35": {
+            "gate": "965f419d-8034-441c-a0d7-569865ad3e57",
+            "pin": "1081164b-b918-4029-97f3-649a2a76f6bc"
+        },
+        "c032eef1-5692-4058-844a-cccf16c4a445": {
+            "gate": "965f419d-8034-441c-a0d7-569865ad3e57",
+            "pin": "d5c2cbaa-b871-419c-bf3d-8fe08ee48c03"
+        },
+        "cc906a02-fc3b-4758-bca6-306a7e1d336e": {
+            "gate": "965f419d-8034-441c-a0d7-569865ad3e57",
+            "pin": "27ee5b00-1e44-41b0-908f-7a846999f3d8"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "adc",
+        "ic"
+    ],
+    "type": "part",
+    "uuid": "3cb96101-993c-4926-a669-e25a2aa505a7",
+    "value": [
+        false,
+        "12 Bit - 50 - 200 ksps"
+    ]
+}
