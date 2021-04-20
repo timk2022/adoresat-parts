@@ -1,0 +1,38 @@
+{
+    "MPN": [
+        false,
+        "CPF0603B10RE"
+    ],
+    "base": "68272fa5-b674-4b57-a892-80c09c6e59d1",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/418/5/ENG_DS_1773200_N-1954016.pdf"
+    ],
+    "description": [
+        false,
+        "Thin Film Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "TE Connectivity"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "605a05ca-5561-4b6c-80e8-6bb412d42750": "CPF0603B10RE"
+    },
+    "parametric": {
+        "pmax": "0.0625",
+        "table": "resistors",
+        "tolerance": "0.1",
+        "value": "10"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "1378968d-7e60-4f87-8359-a0236142542e",
+    "value": [
+        false,
+        "10 Ohm - 0.1% - 0.0625 W"
+    ]
+}

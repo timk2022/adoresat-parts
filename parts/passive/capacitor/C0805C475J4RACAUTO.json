@@ -1,0 +1,39 @@
+{
+    "MPN": [
+        false,
+        "C0805C475J4RACAUTO"
+    ],
+    "base": "e4ffbcdf-5224-4661-aa0d-8bd51eafc447",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/212/KEM_C1023_X7R_AUTO_SMD-1093309.pdf"
+    ],
+    "description": [
+        false,
+        "Multilayer Ceramic Capacitor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "KEMET"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "910e8112-79ad-4bd1-95e5-ea11fc7aa1a0": "C0805C475J4RACAUTO"
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "5",
+        "type": "X7R",
+        "value": "4.7e-06",
+        "wvdc": "16"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "a3f6530b-1a49-405b-bf6c-4bc620ce996a",
+    "value": [
+        false,
+        "4.7 uF - 16 V - X7R - 5%"
+    ]
+}
