@@ -1,0 +1,136 @@
+{
+    "manufacturer": "Analog Devices",
+    "name": "LTC6820 - MSOP",
+    "pins": {
+        "16ef9227-816a-4bda-8db3-43e53e79959f": {
+            "direction": "input",
+            "names": [
+                "EN"
+            ],
+            "primary_name": "16",
+            "swap_group": 0
+        },
+        "1b29fa4c-4f04-4c01-ac62-13da57e04b15": {
+            "direction": "bidirectional",
+            "names": [
+                "IP"
+            ],
+            "primary_name": "11",
+            "swap_group": 0
+        },
+        "1e033e81-686b-41cc-83f8-21fc1e533e8a": {
+            "direction": "power_input",
+            "names": [
+                "V_DDS"
+            ],
+            "primary_name": "6",
+            "swap_group": 0
+        },
+        "2147ad26-3259-49dc-916c-78eb3cf37190": {
+            "direction": "output",
+            "names": [
+                "MISO"
+            ],
+            "primary_name": "3",
+            "swap_group": 0
+        },
+        "5764d50e-e4c3-420b-bc91-265deb38ce6d": {
+            "direction": "input",
+            "names": [
+                "SCK"
+            ],
+            "primary_name": "4",
+            "swap_group": 0
+        },
+        "5a59591f-c302-43fd-ace9-27ec0e21aff5": {
+            "direction": "input",
+            "names": [
+                "EN"
+            ],
+            "primary_name": "1",
+            "swap_group": 0
+        },
+        "6e01f9d5-a94e-45d0-b9d9-de7c6ab388b8": {
+            "direction": "input",
+            "names": [
+                "PHA"
+            ],
+            "primary_name": "8",
+            "swap_group": 0
+        },
+        "768741c7-fef2-41cd-b685-9125fa170305": {
+            "direction": "input",
+            "names": [
+                "MSTR"
+            ],
+            "primary_name": "12",
+            "swap_group": 0
+        },
+        "76d6bdfc-9b9f-4e13-8f50-caa322ae6ea6": {
+            "direction": "input",
+            "names": [
+                "MOSI"
+            ],
+            "primary_name": "2",
+            "swap_group": 0
+        },
+        "83427bb3-659b-4e49-b3a1-5e93042e6081": {
+            "direction": "input",
+            "names": [
+                "nCS"
+            ],
+            "primary_name": "5",
+            "swap_group": 0
+        },
+        "8803f3de-4adb-42c1-b2fd-488f36c4e532": {
+            "direction": "bidirectional",
+            "names": [
+                "IM"
+            ],
+            "primary_name": "10",
+            "swap_group": 0
+        },
+        "a4dc7602-55e8-4db6-a384-f7530338360c": {
+            "direction": "power_input",
+            "names": [
+                "V_DD"
+            ],
+            "primary_name": "9",
+            "swap_group": 0
+        },
+        "abb303c2-9143-4507-9ce0-76793c866437": {
+            "direction": "input",
+            "names": [
+                "POL"
+            ],
+            "primary_name": "7",
+            "swap_group": 0
+        },
+        "ae6e7c42-8934-4d12-9e03-8cb13bc44920": {
+            "direction": "input",
+            "names": [
+                "SLOW"
+            ],
+            "primary_name": "13",
+            "swap_group": 0
+        },
+        "ed72ce9a-90ca-4f62-9775-39b983a4e37d": {
+            "direction": "passive",
+            "names": [
+                "GND"
+            ],
+            "primary_name": "14",
+            "swap_group": 0
+        },
+        "f11db631-d263-4b3a-8323-06acd8fdcba3": {
+            "direction": "input",
+            "names": [
+                "I_BIAS"
+            ],
+            "primary_name": "15",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "52386929-d09c-415a-905f-2c382e11b57e"
+}

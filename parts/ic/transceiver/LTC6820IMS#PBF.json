@@ -1,0 +1,103 @@
+{
+    "MPN": [
+        false,
+        "LTC6820IMS#PBF"
+    ],
+    "datasheet": [
+        false,
+        "https://www.analog.com/media/en/technical-documentation/data-sheets/LTC6820.pdf"
+    ],
+    "description": [
+        false,
+        "SPI Interface IC"
+    ],
+    "entity": "297bb8dc-ca56-4a53-b8f8-a43152b40823",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Analog Devices"
+    ],
+    "model": "52fb6364-63ec-4d19-b780-1fc7bd064a79",
+    "orderable_MPNs": {
+        "a3c55c86-b58e-44c5-bc82-dbc1c9f2016c": "LTC6820IMS#PBF"
+    },
+    "package": "f8e4cfdf-ad68-4235-bf5d-8ac68a7ae711",
+    "pad_map": {
+        "026b6ed3-ee4a-4c2a-ac57-6dc976bec41e": {
+            "gate": "609bcd6c-9799-4018-ad4a-d0f913e72b8c",
+            "pin": "6e01f9d5-a94e-45d0-b9d9-de7c6ab388b8"
+        },
+        "12133387-8ed1-4830-a50f-67dc9413ac4b": {
+            "gate": "609bcd6c-9799-4018-ad4a-d0f913e72b8c",
+            "pin": "1e033e81-686b-41cc-83f8-21fc1e533e8a"
+        },
+        "23000a68-2da8-4f74-b138-2618b7f9347b": {
+            "gate": "609bcd6c-9799-4018-ad4a-d0f913e72b8c",
+            "pin": "1b29fa4c-4f04-4c01-ac62-13da57e04b15"
+        },
+        "3cc920a1-3dca-4363-ae3b-b160bebe5bc7": {
+            "gate": "609bcd6c-9799-4018-ad4a-d0f913e72b8c",
+            "pin": "a4dc7602-55e8-4db6-a384-f7530338360c"
+        },
+        "4b56c3f7-d034-49b3-9640-f2af1041445a": {
+            "gate": "609bcd6c-9799-4018-ad4a-d0f913e72b8c",
+            "pin": "f11db631-d263-4b3a-8323-06acd8fdcba3"
+        },
+        "517a8f3f-4311-4a4c-8275-e4de797eb822": {
+            "gate": "609bcd6c-9799-4018-ad4a-d0f913e72b8c",
+            "pin": "768741c7-fef2-41cd-b685-9125fa170305"
+        },
+        "91d4eae9-2842-42c9-9f04-240a3a9cbd83": {
+            "gate": "609bcd6c-9799-4018-ad4a-d0f913e72b8c",
+            "pin": "5764d50e-e4c3-420b-bc91-265deb38ce6d"
+        },
+        "9229d642-7ca4-41ca-92b2-95d25c9bb42d": {
+            "gate": "609bcd6c-9799-4018-ad4a-d0f913e72b8c",
+            "pin": "abb303c2-9143-4507-9ce0-76793c866437"
+        },
+        "9849393a-92b0-46ca-b110-4617f0db87e2": {
+            "gate": "609bcd6c-9799-4018-ad4a-d0f913e72b8c",
+            "pin": "ed72ce9a-90ca-4f62-9775-39b983a4e37d"
+        },
+        "bd8e212d-ccbc-48f2-abc3-7a552182fdea": {
+            "gate": "609bcd6c-9799-4018-ad4a-d0f913e72b8c",
+            "pin": "8803f3de-4adb-42c1-b2fd-488f36c4e532"
+        },
+        "d836ce5d-c0ba-47d5-b728-c42a30bcad99": {
+            "gate": "609bcd6c-9799-4018-ad4a-d0f913e72b8c",
+            "pin": "ae6e7c42-8934-4d12-9e03-8cb13bc44920"
+        },
+        "dfca84e8-2595-4aa1-b01c-6bdf6f07c931": {
+            "gate": "609bcd6c-9799-4018-ad4a-d0f913e72b8c",
+            "pin": "2147ad26-3259-49dc-916c-78eb3cf37190"
+        },
+        "e6efb386-2b14-42ef-a087-9361bc3e22c8": {
+            "gate": "609bcd6c-9799-4018-ad4a-d0f913e72b8c",
+            "pin": "76d6bdfc-9b9f-4e13-8f50-caa322ae6ea6"
+        },
+        "eafbcd53-5417-4b91-b006-fe2d1fce9080": {
+            "gate": "609bcd6c-9799-4018-ad4a-d0f913e72b8c",
+            "pin": "5a59591f-c302-43fd-ace9-27ec0e21aff5"
+        },
+        "f4a2544a-4c1a-4349-81b8-73c27d5001bf": {
+            "gate": "609bcd6c-9799-4018-ad4a-d0f913e72b8c",
+            "pin": "83427bb3-659b-4e49-b3a1-5e93042e6081"
+        },
+        "f4a691de-e96f-40b0-9e69-cd188050a669": {
+            "gate": "609bcd6c-9799-4018-ad4a-d0f913e72b8c",
+            "pin": "16ef9227-816a-4bda-8db3-43e53e79959f"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "transceiver"
+    ],
+    "type": "part",
+    "uuid": "ddfa7ff2-9588-41db-be6f-19ef1b7c7972",
+    "value": [
+        false,
+        "LTC6820I"
+    ]
+}

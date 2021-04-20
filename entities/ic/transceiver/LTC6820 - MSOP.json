@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "609bcd6c-9799-4018-ad4a-d0f913e72b8c": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "52386929-d09c-415a-905f-2c382e11b57e"
+        }
+    },
+    "manufacturer": "Analog Devices",
+    "name": "LTC6820 - MSOP",
+    "prefix": "U",
+    "tags": [
+        "transceiver"
+    ],
+    "type": "entity",
+    "uuid": "297bb8dc-ca56-4a53-b8f8-a43152b40823"
+}
