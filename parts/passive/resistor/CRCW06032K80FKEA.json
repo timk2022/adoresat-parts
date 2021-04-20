@@ -1,0 +1,38 @@
+{
+    "MPN": [
+        false,
+        "CRCW06032K80FKEA"
+    ],
+    "base": "68272fa5-b674-4b57-a892-80c09c6e59d1",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/427/dcrcwe3-1762152.pdf"
+    ],
+    "description": [
+        false,
+        "Thick Film Reisistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Vishay / Dale"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "81135575-2c9b-46cf-9c96-25190949bfff": "CRCW06032K80FKEA"
+    },
+    "parametric": {
+        "pmax": "0.1",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "2800"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "d20a0045-7d43-485b-a86c-70722bcc4fe2",
+    "value": [
+        false,
+        "2.8 kOhm - 1% - 0.1 W"
+    ]
+}
