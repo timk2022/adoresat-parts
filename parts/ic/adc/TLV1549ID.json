@@ -1,0 +1,71 @@
+{
+    "MPN": [
+        false,
+        "TLV1549ID"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/ds/symlink/tlv1549.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1618883483516&ref_url=https%253A%252F%252Fwww.mouser.com%252F"
+    ],
+    "description": [
+        false,
+        "10 Bit, 38 kSPS ADC, 3.3 V"
+    ],
+    "entity": "81ac2a81-d63d-4507-8dd3-582b0a525beb",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "TI"
+    ],
+    "model": "5344bb4e-f190-4f5b-b387-3ec716177b89",
+    "orderable_MPNs": {
+        "c0e703ee-70cc-42f5-8994-0800f1952ede": "TLV1549ID"
+    },
+    "package": "64036c70-3761-4380-9ec4-80941bf5af70",
+    "pad_map": {
+        "1da0b45e-493e-45b1-a44a-d5e9def9b237": {
+            "gate": "e150fe52-726f-4218-8468-129b5193939f",
+            "pin": "9ccc3abb-885a-432d-84f4-62dc6c3f298b"
+        },
+        "3c9b44d7-7488-4b62-876e-7c970ec2d3de": {
+            "gate": "e150fe52-726f-4218-8468-129b5193939f",
+            "pin": "93702428-ea9f-4113-998c-f08b6097d26f"
+        },
+        "84bbd9fe-4946-4a02-a1e7-39214e239f70": {
+            "gate": "e150fe52-726f-4218-8468-129b5193939f",
+            "pin": "44700fea-fc15-460d-ae9d-25a8a66e27a1"
+        },
+        "a7ac47a4-397f-4cd4-a215-4ddeb39fe91a": {
+            "gate": "e150fe52-726f-4218-8468-129b5193939f",
+            "pin": "e81d16c5-f8fe-4228-8cb3-14e6c0ac59c7"
+        },
+        "cb2a8528-f045-41d2-80ce-d5e4dd687868": {
+            "gate": "e150fe52-726f-4218-8468-129b5193939f",
+            "pin": "e5704c4e-3552-40b5-94d8-b6b3c0672fe7"
+        },
+        "deee2750-345a-4ccb-9f40-385992991d7e": {
+            "gate": "e150fe52-726f-4218-8468-129b5193939f",
+            "pin": "07717982-56cd-499b-b8eb-838c24fa457e"
+        },
+        "ed422e0e-e203-430c-81bf-d5a46879778e": {
+            "gate": "e150fe52-726f-4218-8468-129b5193939f",
+            "pin": "60f67e6b-eaef-4492-9bde-e8930d54107a"
+        },
+        "f3eef9fd-67e0-45ca-a5e4-f564c3e035dd": {
+            "gate": "e150fe52-726f-4218-8468-129b5193939f",
+            "pin": "7d8fbeca-ed31-4180-9688-01e460a60df5"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "adc",
+        "ic"
+    ],
+    "type": "part",
+    "uuid": "634c029c-5c5c-4d8e-a7ee-13c1f9393215",
+    "value": [
+        false,
+        "10 Bit - 38 kSPS"
+    ]
+}

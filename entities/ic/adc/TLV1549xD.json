@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "e150fe52-726f-4218-8468-129b5193939f": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "71eacd4e-9ddc-42cb-b3bc-4073185e1ebf"
+        }
+    },
+    "manufacturer": "TI",
+    "name": "TLV1549xD",
+    "prefix": "U",
+    "tags": [
+        "adc",
+        "ic"
+    ],
+    "type": "entity",
+    "uuid": "81ac2a81-d63d-4507-8dd3-582b0a525beb"
+}
