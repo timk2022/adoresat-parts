@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "94413065-52ba-4a16-b84d-c04abb5e66e0": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "6e376bdf-3894-45a3-83dc-c8955f1c84a7"
+        }
+    },
+    "manufacturer": "",
+    "name": "Two-terminal connector",
+    "prefix": "J",
+    "tags": [
+        "connector",
+        "terminal"
+    ],
+    "type": "entity",
+    "uuid": "6afb92f3-9690-4719-b488-7167e0a24d54"
+}

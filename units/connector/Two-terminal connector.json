@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "Two-terminal connector",
+    "pins": {
+        "2786d038-1079-4027-90d9-67ada526ff2b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        },
+        "f5cf89d0-7907-4e6d-8e2a-9721b0991eb1": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "2",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "6e376bdf-3894-45a3-83dc-c8955f1c84a7"
+}

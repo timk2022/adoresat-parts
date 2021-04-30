@@ -1,0 +1,46 @@
+{
+    "MPN": [
+        false,
+        "TB007-508-02BE"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/670/tb007_508-2306759.pdf"
+    ],
+    "description": [
+        false,
+        "2 Pole Screw Terminal Connection Block"
+    ],
+    "entity": "6afb92f3-9690-4719-b488-7167e0a24d54",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "CUI Devices"
+    ],
+    "model": "ba21856b-c741-4d2f-9416-5743cc45f695",
+    "orderable_MPNs": {
+        "2131ecbd-50f2-4eb6-adca-c808488240f1": "TB007-508-02BE"
+    },
+    "package": "042f4349-b3c1-4479-94ca-ed7d2d280758",
+    "pad_map": {
+        "576cb45a-86a9-425f-b99b-1cad79537c69": {
+            "gate": "94413065-52ba-4a16-b84d-c04abb5e66e0",
+            "pin": "2786d038-1079-4027-90d9-67ada526ff2b"
+        },
+        "62caa6b1-e2c1-4d03-be9d-b50963b136bc": {
+            "gate": "94413065-52ba-4a16-b84d-c04abb5e66e0",
+            "pin": "f5cf89d0-7907-4e6d-8e2a-9721b0991eb1"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector"
+    ],
+    "type": "part",
+    "uuid": "2a5bdaa9-8285-4749-bbdb-7b376affc976",
+    "value": [
+        false,
+        "2 Pole Terminal"
+    ]
+}
