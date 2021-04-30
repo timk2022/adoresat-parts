@@ -1,0 +1,95 @@
+{
+    "MPN": [
+        false,
+        "MAX31856MUD+"
+    ],
+    "datasheet": [
+        false,
+        "https://datasheets.maximintegrated.com/en/ds/MAX31856.pdf"
+    ],
+    "description": [
+        false,
+        "Thermocouple to Digital Interafec Converter"
+    ],
+    "entity": "1b9371e4-d089-43d2-9854-e154494a7251",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Maxim"
+    ],
+    "model": "2a99aa4d-569e-4a72-af9f-b01e650621ae",
+    "orderable_MPNs": {
+        "d82fa9c1-bc98-49e1-9fb8-115c7847a2ba": "MAX31856MUD+"
+    },
+    "package": "1c292321-60bc-44c2-8ffb-5b26d9d0bd95",
+    "pad_map": {
+        "0b0cf287-9904-45c4-8122-2cff820c752f": {
+            "gate": "be67794e-7533-43ca-b01e-4e21358cb8f0",
+            "pin": "4c92c395-c75e-47b8-9ed1-93ed5f3e0a80"
+        },
+        "0df84563-be9b-4489-99a5-62191a0f2d70": {
+            "gate": "be67794e-7533-43ca-b01e-4e21358cb8f0",
+            "pin": "7d16bcae-d2f6-4b39-a7c7-50343eda2fd0"
+        },
+        "3996fb19-75f2-4d01-b988-f551cbd5c145": {
+            "gate": "be67794e-7533-43ca-b01e-4e21358cb8f0",
+            "pin": "643c3d4a-10d1-4d98-8cc7-ebe7929e1c32"
+        },
+        "4b38b3f0-2586-49c4-a71d-01ddd42dd4b7": {
+            "gate": "be67794e-7533-43ca-b01e-4e21358cb8f0",
+            "pin": "f291fe10-55b8-4e22-a393-746b66e5a976"
+        },
+        "756ceb07-6a51-42dc-9827-7fb7163029bd": {
+            "gate": "be67794e-7533-43ca-b01e-4e21358cb8f0",
+            "pin": "e16ddccd-e0f1-4653-9ff7-b844b46cb088"
+        },
+        "8046d373-82cd-4241-9eca-f6f0d3712ca5": {
+            "gate": "be67794e-7533-43ca-b01e-4e21358cb8f0",
+            "pin": "0872099c-6f6c-4e8d-884d-b32aefc4bad6"
+        },
+        "933239d3-9ef6-4e70-adf0-13e8c40786c1": {
+            "gate": "be67794e-7533-43ca-b01e-4e21358cb8f0",
+            "pin": "193b00b0-277d-4daf-a193-a3b09ba96397"
+        },
+        "9d48abf0-1c91-4726-8377-17d103b59000": {
+            "gate": "be67794e-7533-43ca-b01e-4e21358cb8f0",
+            "pin": "12b877d5-28e4-4983-8459-eeac017da4fc"
+        },
+        "a4521b23-60bc-4b32-ac74-a3f09314d1bf": {
+            "gate": "be67794e-7533-43ca-b01e-4e21358cb8f0",
+            "pin": "2114992b-a155-4b1e-8ff4-626bf47083f0"
+        },
+        "a8c74b65-12e8-476b-ade1-fdfcfc0c91cb": {
+            "gate": "be67794e-7533-43ca-b01e-4e21358cb8f0",
+            "pin": "d74fbc9c-46ae-48dc-adc3-2647c18263e8"
+        },
+        "af143e03-1437-446e-a699-37f2522e61fe": {
+            "gate": "be67794e-7533-43ca-b01e-4e21358cb8f0",
+            "pin": "9deaf264-e4df-43bb-acc1-d37c4fdcca7d"
+        },
+        "b7836709-a477-42d6-99da-7e44286ad05b": {
+            "gate": "be67794e-7533-43ca-b01e-4e21358cb8f0",
+            "pin": "49b1628b-301c-4edf-bcb7-3c0ce4cf4574"
+        },
+        "db158bdf-4a2f-4982-b604-b907e77f02ab": {
+            "gate": "be67794e-7533-43ca-b01e-4e21358cb8f0",
+            "pin": "385bede8-91a6-43e6-b2bc-17bf5f82ce72"
+        },
+        "e4c7b6ab-7d55-430f-8015-8fdd26ae856b": {
+            "gate": "be67794e-7533-43ca-b01e-4e21358cb8f0",
+            "pin": "0da4dfa6-e092-4ab8-873e-25815aa2d210"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "thermocouple"
+    ],
+    "type": "part",
+    "uuid": "e10e5769-11dc-469c-817f-36cce8321e18",
+    "value": [
+        false,
+        "MAX31856"
+    ]
+}
