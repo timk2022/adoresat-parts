@@ -1,0 +1,42 @@
+{
+    "MPN": [
+        false,
+        "575-4"
+    ],
+    "datasheet": [
+        false,
+        "https://www.keyelco.com/userAssets/file/M65p111.pdf"
+    ],
+    "description": [
+        false,
+        "Banana Jack PCB Connector"
+    ],
+    "entity": "d21bea12-fded-4f76-a246-7615f9fc6af8",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Keystone"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "8557b0de-6b60-442f-bcf1-71452ece63b4": "575-4"
+    },
+    "package": "f0e96432-6edb-4b0b-9fea-76548bca3049",
+    "pad_map": {
+        "91654a9f-ac29-4a9d-8e9b-a8c3872bd2b1": {
+            "gate": "3e0a49aa-bd35-46cd-9015-b3e735e33250",
+            "pin": "fdc7533c-a199-47cb-a1f9-94d716a5332d"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector"
+    ],
+    "type": "part",
+    "uuid": "f8eacfa1-6771-4942-8f07-3204acd2412d",
+    "value": [
+        false,
+        "Banana Jack"
+    ]
+}

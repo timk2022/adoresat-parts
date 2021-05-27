@@ -1,0 +1,172 @@
+{
+    "arcs": {
+        "70619872-21aa-4d14-b263-83a9cc0031b2": {
+            "center": "1c965f45-d294-4d39-a586-da0b86972684",
+            "from": "f5531e56-f845-47ba-a5dc-94c98beda866",
+            "layer": 20,
+            "to": "06d6cb23-9040-41e4-ac51-e1cb3013bb9d",
+            "width": 150000
+        },
+        "f3530498-88f6-47f4-b71b-47b1dd936139": {
+            "center": "1c965f45-d294-4d39-a586-da0b86972684",
+            "from": "06d6cb23-9040-41e4-ac51-e1cb3013bb9d",
+            "layer": 20,
+            "to": "f5531e56-f845-47ba-a5dc-94c98beda866",
+            "width": 150000
+        }
+    },
+    "default_model": "00000000-0000-0000-0000-000000000000",
+    "dimensions": {},
+    "junctions": {
+        "06d6cb23-9040-41e4-ac51-e1cb3013bb9d": {
+            "position": [
+                -4375000,
+                0
+            ]
+        },
+        "1c965f45-d294-4d39-a586-da0b86972684": {
+            "position": [
+                0,
+                0
+            ]
+        },
+        "f5531e56-f845-47ba-a5dc-94c98beda866": {
+            "position": [
+                4375000,
+                0
+            ]
+        }
+    },
+    "keepouts": {},
+    "lines": {},
+    "manufacturer": "Keystone",
+    "models": {},
+    "name": "575-bj",
+    "pads": {
+        "91654a9f-ac29-4a9d-8e9b-a8c3872bd2b1": {
+            "name": "1",
+            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
+            "parameter_set": {
+                "hole_diameter": 5250000,
+                "pad_diameter": 8000000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        }
+    },
+    "parameter_program": "",
+    "parameter_set": {},
+    "polygons": {
+        "346eb6e5-ef95-4306-ad08-15b0e790e8b8": {
+            "layer": 60,
+            "parameter_class": "courtyard",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -4000000,
+                        -4000000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -4000000,
+                        4000000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        4000000,
+                        4000000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        4000000,
+                        -4000000
+                    ],
+                    "type": "line"
+                }
+            ]
+        }
+    },
+    "rules": {
+        "clearance_package": {
+            "clearance_silkscreen_cu": 200000,
+            "clearance_silkscreen_pkg": 200000,
+            "enabled": true,
+            "order": -1
+        },
+        "package_checks": {
+            "enabled": true,
+            "order": -1
+        }
+    },
+    "tags": [],
+    "texts": {
+        "0862e641-971c-4a32-a3c2-425e42cdfd0e": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 50,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -4000000,
+                    4625000
+                ]
+            },
+            "size": 600000,
+            "text": "$RD",
+            "width": 0
+        },
+        "7be28e9e-3829-4674-9eb9-2116517430c3": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 20,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -1375000,
+                    5500000
+                ]
+            },
+            "size": 1000000,
+            "text": "$RD",
+            "width": 150000
+        }
+    },
+    "type": "package",
+    "uuid": "f0e96432-6edb-4b0b-9fea-76548bca3049"
+}
