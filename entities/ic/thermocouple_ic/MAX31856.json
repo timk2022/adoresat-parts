@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "be67794e-7533-43ca-b01e-4e21358cb8f0": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "d0611b37-8be3-4c1c-9cb9-6d7f8ca1d823"
+        }
+    },
+    "manufacturer": "Maxim",
+    "name": "MAX31856",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "thermocouple ic"
+    ],
+    "type": "entity",
+    "uuid": "1b9371e4-d089-43d2-9854-e154494a7251"
+}
