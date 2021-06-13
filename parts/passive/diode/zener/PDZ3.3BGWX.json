@@ -1,0 +1,48 @@
+{
+    "MPN": [
+        false,
+        "PDZ3.3BGWX"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/916/PDZ-GW_SER-1599748.pdf"
+    ],
+    "description": [
+        false,
+        "Zener Diode"
+    ],
+    "entity": "5796e0e1-213c-4028-9488-8347b4c571ed",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Nexperia"
+    ],
+    "model": "39855693-e5f1-4a0c-9ef7-5cb214623bc5",
+    "orderable_MPNs": {
+        "2cb9e8ce-dcdf-4d83-879d-86bcde0cb2fa": "PDZ3.3BGWX"
+    },
+    "package": "5931030a-395c-4ef4-964b-c6b1d5827286",
+    "pad_map": {
+        "898393f6-6970-48f4-bad4-c169f609de30": {
+            "gate": "0bf94e6e-c553-4331-85ec-298d30fd605f",
+            "pin": "fb6c9b05-1b03-402f-8ce2-6ba8c863701b"
+        },
+        "9bb3551b-0947-417e-812e-3f318441b9bd": {
+            "gate": "0bf94e6e-c553-4331-85ec-298d30fd605f",
+            "pin": "47391d53-2e60-4723-8754-51f85a7e65aa"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "diode",
+        "passive",
+        "zener"
+    ],
+    "type": "part",
+    "uuid": "b031702a-8072-4f17-8806-62a419890196",
+    "value": [
+        false,
+        "Zener - 3.53 Vz - 8 A Iz"
+    ]
+}
