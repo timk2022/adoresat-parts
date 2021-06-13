@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "Varistor",
+    "pins": {
+        "05adeff9-490e-4296-b90a-0c7fdd210e3a": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "2",
+            "swap_group": 0
+        },
+        "1fa94dae-da78-4697-a31c-0f205d05762e": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "1b73d162-8326-4b30-9e0e-a85b8282da67"
+}

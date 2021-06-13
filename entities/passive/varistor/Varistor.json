@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "73a91b9a-032b-401a-8ef0-d7f1d387c216": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "1b73d162-8326-4b30-9e0e-a85b8282da67"
+        }
+    },
+    "manufacturer": "",
+    "name": "Varistor",
+    "prefix": "RV",
+    "tags": [
+        "passive",
+        "varistor"
+    ],
+    "type": "entity",
+    "uuid": "c22d418c-d775-4e2b-a5cd-b264809cc41e"
+}

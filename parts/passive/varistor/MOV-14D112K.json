@@ -1,0 +1,47 @@
+{
+    "MPN": [
+        false,
+        "MOV-14D112K"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/54/mov14d-777765.pdf"
+    ],
+    "description": [
+        false,
+        "Metal Oxide Varistor"
+    ],
+    "entity": "c22d418c-d775-4e2b-a5cd-b264809cc41e",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Bourns"
+    ],
+    "model": "b774e68b-3424-4b82-9fde-89270e347fcc",
+    "orderable_MPNs": {
+        "70c3a35b-1c7d-4e01-b785-3b091e254b0a": "MOV-14D112K"
+    },
+    "package": "6e8ec8d9-0ff7-4cac-9125-024dadbe99bd",
+    "pad_map": {
+        "085cf751-aceb-4b30-8b4e-eb1437c13e14": {
+            "gate": "73a91b9a-032b-401a-8ef0-d7f1d387c216",
+            "pin": "1fa94dae-da78-4697-a31c-0f205d05762e"
+        },
+        "d9379ca8-b1ce-4a05-907e-2240af8a2ea0": {
+            "gate": "73a91b9a-032b-401a-8ef0-d7f1d387c216",
+            "pin": "05adeff9-490e-4296-b90a-0c7fdd210e3a"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "passive",
+        "varistor"
+    ],
+    "type": "part",
+    "uuid": "8bac691d-e03e-401a-898f-299293be2ffd",
+    "value": [
+        false,
+        "Varistor - 1100 V - 4.5 kA"
+    ]
+}
