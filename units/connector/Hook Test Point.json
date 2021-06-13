@@ -1,0 +1,14 @@
+{
+    "manufacturer": "",
+    "name": "Hook Test Point",
+    "pins": {
+        "4bb7ed9b-4e3b-45f6-9779-51ae49824855": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "2abcf342-bf67-416c-86b4-056ca9167e8f"
+}

@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "7fca45f6-cd88-4986-9c14-6620a44f9cbd": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "2abcf342-bf67-416c-86b4-056ca9167e8f"
+        }
+    },
+    "manufacturer": "",
+    "name": "Hook Test Point",
+    "prefix": "TP",
+    "tags": [
+        "connector",
+        "hook"
+    ],
+    "type": "entity",
+    "uuid": "905ead0e-e2ee-4bd2-a500-fdc364a95055"
+}

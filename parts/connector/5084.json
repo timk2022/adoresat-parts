@@ -1,0 +1,43 @@
+{
+    "MPN": [
+        false,
+        "5084"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/215/5084-2013663.pdf"
+    ],
+    "description": [
+        false,
+        "Hook Test Point"
+    ],
+    "entity": "905ead0e-e2ee-4bd2-a500-fdc364a95055",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Keystone"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "e79b80f9-a325-447a-8e72-526e1ae6cb02": "5084"
+    },
+    "package": "ed8c6c23-70d2-441e-b8cf-d81564315cff",
+    "pad_map": {
+        "0db03ab5-19cd-46ef-8439-62afdf6cd677": {
+            "gate": "7fca45f6-cd88-4986-9c14-6620a44f9cbd",
+            "pin": "4bb7ed9b-4e3b-45f6-9779-51ae49824855"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "hook"
+    ],
+    "type": "part",
+    "uuid": "3f31ee5a-62a8-4274-97d2-32ad73eb4268",
+    "value": [
+        false,
+        "Hook TP"
+    ]
+}
