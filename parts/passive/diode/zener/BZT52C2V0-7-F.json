@@ -1,0 +1,48 @@
+{
+    "MPN": [
+        false,
+        "BZT52C2V0-7-F"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/115/ds18004-1142534.pdf"
+    ],
+    "description": [
+        false,
+        "Zener Diode"
+    ],
+    "entity": "5796e0e1-213c-4028-9488-8347b4c571ed",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Diodes Incorporated"
+    ],
+    "model": "eaa139c3-f459-47b7-bdbe-ccf50bb1ad3c",
+    "orderable_MPNs": {
+        "a3dbebd1-bdae-4d6a-a286-0d8856c1dd48": "BZT52C2V0-7-F"
+    },
+    "package": "8c5e14aa-1855-41f2-8706-f8f2de0ec2c0",
+    "pad_map": {
+        "57284a4f-eaa4-4ed9-9567-f9d87a992dd5": {
+            "gate": "0bf94e6e-c553-4331-85ec-298d30fd605f",
+            "pin": "fb6c9b05-1b03-402f-8ce2-6ba8c863701b"
+        },
+        "d07d334b-5860-4fcd-b089-f44883fe7147": {
+            "gate": "0bf94e6e-c553-4331-85ec-298d30fd605f",
+            "pin": "47391d53-2e60-4723-8754-51f85a7e65aa"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "diode",
+        "passive",
+        "zener"
+    ],
+    "type": "part",
+    "uuid": "7c40daa3-74b2-449e-9add-cd05c6b57bef",
+    "value": [
+        false,
+        "Zener - 2 Vz - 5 mA Iz"
+    ]
+}
