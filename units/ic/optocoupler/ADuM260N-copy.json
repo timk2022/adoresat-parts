@@ -1,0 +1,136 @@
+{
+    "manufacturer": "Analog Devices",
+    "name": "ADuM263N",
+    "pins": {
+        "00546af2-bd15-4db7-a384-d461851797a0": {
+            "direction": "input",
+            "names": [
+                "VID"
+            ],
+            "primary_name": "12",
+            "swap_group": 0
+        },
+        "019907a8-9f06-4315-8dc8-6094f456ef15": {
+            "direction": "input",
+            "names": [
+                "VIB"
+            ],
+            "primary_name": "3",
+            "swap_group": 0
+        },
+        "05f6dcf8-ca61-46ed-9b5f-92e01b9c7010": {
+            "direction": "output",
+            "names": [
+                "VOB"
+            ],
+            "primary_name": "14",
+            "swap_group": 0
+        },
+        "0e858030-8c94-4557-8d09-a033fee4ac3e": {
+            "direction": "input",
+            "names": [
+                "VIF"
+            ],
+            "primary_name": "10",
+            "swap_group": 0
+        },
+        "184c421d-4b83-4216-b985-1be008c12446": {
+            "direction": "output",
+            "names": [
+                "VOD"
+            ],
+            "primary_name": "5",
+            "swap_group": 0
+        },
+        "1a297a5f-b229-4991-8913-9937de03ef1e": {
+            "direction": "output",
+            "names": [
+                "VOF"
+            ],
+            "primary_name": "7",
+            "swap_group": 0
+        },
+        "311cb4ec-11ef-4645-af4a-0b2000e5b2a8": {
+            "direction": "power_input",
+            "names": [
+                "VDD2"
+            ],
+            "primary_name": "16",
+            "swap_group": 0
+        },
+        "31d25c7d-7ca5-4cce-8fd3-ba5012b03498": {
+            "direction": "input",
+            "names": [
+                "VIC"
+            ],
+            "primary_name": "4",
+            "swap_group": 0
+        },
+        "39c9fd6b-e3ac-4355-be8b-0b18f4274300": {
+            "direction": "output",
+            "names": [
+                "VOE"
+            ],
+            "primary_name": "6",
+            "swap_group": 0
+        },
+        "42142271-927d-4393-9381-30be4bee8a0e": {
+            "direction": "passive",
+            "names": [
+                "GND1"
+            ],
+            "primary_name": "8",
+            "swap_group": 0
+        },
+        "641f782f-e860-41ab-bbce-0a12563e967a": {
+            "direction": "passive",
+            "names": [
+                "GND2"
+            ],
+            "primary_name": "9",
+            "swap_group": 0
+        },
+        "9acc2e2b-68f0-4a39-9e5b-a36f3bb28915": {
+            "direction": "input",
+            "names": [
+                "VIA"
+            ],
+            "primary_name": "2",
+            "swap_group": 0
+        },
+        "b65cb37a-7189-4846-b91c-8c0bfaf11263": {
+            "direction": "power_input",
+            "names": [
+                "VDD1"
+            ],
+            "primary_name": "1",
+            "swap_group": 0
+        },
+        "de39b1dc-10e0-4994-88d1-4b27eebb7112": {
+            "direction": "output",
+            "names": [
+                "VOA"
+            ],
+            "primary_name": "15",
+            "swap_group": 0
+        },
+        "ee3d235f-456f-43c6-adc7-43795263efce": {
+            "direction": "input",
+            "names": [
+                "VIE"
+            ],
+            "primary_name": "11",
+            "swap_group": 0
+        },
+        "ef9a91ab-5389-4b75-b089-3ddf8bb9cdfe": {
+            "direction": "output",
+            "names": [
+                "VOC"
+            ],
+            "primary_name": "13",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "198e76f8-8b7b-45b7-9f9c-2b9a9dd5ea1b"
+}

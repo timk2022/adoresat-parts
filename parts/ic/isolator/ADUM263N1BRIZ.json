@@ -1,0 +1,100 @@
+{
+    "MPN": [
+        false,
+        "ADUM263N1BRIZ"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/609/ADuM260N-261N-262N-263N-1503671.pdf"
+    ],
+    "description": [
+        false,
+        "6 Channel Isolator - 3/3 - Fail Safe High"
+    ],
+    "entity": "2c2ca5dc-7d28-46bd-8d3b-f974a87a905e",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Analog Devices"
+    ],
+    "model": "4a53817a-7741-45b8-9b9b-04bc1eb6f2c7",
+    "orderable_MPNs": {
+        "089d75d7-76be-4599-95cf-19181a1cec33": "ADUM263N1BRIZ"
+    },
+    "package": "ceee3e5f-4759-4af6-a4b1-63de486ee70b",
+    "pad_map": {
+        "06397f80-67b5-47f3-855f-4b4f82ce92f7": {
+            "gate": "319fac04-b8fd-4599-86d7-9142b308dd45",
+            "pin": "ef9a91ab-5389-4b75-b089-3ddf8bb9cdfe"
+        },
+        "2a4b1633-0e61-47c8-8720-4557eac8a8d9": {
+            "gate": "319fac04-b8fd-4599-86d7-9142b308dd45",
+            "pin": "de39b1dc-10e0-4994-88d1-4b27eebb7112"
+        },
+        "35ce7a93-4f46-488d-8f73-db84e024a07b": {
+            "gate": "319fac04-b8fd-4599-86d7-9142b308dd45",
+            "pin": "31d25c7d-7ca5-4cce-8fd3-ba5012b03498"
+        },
+        "539633a1-6c63-404b-bf4f-58e60b86d8a6": {
+            "gate": "319fac04-b8fd-4599-86d7-9142b308dd45",
+            "pin": "b65cb37a-7189-4846-b91c-8c0bfaf11263"
+        },
+        "560255b1-9d2b-4b61-8c7d-009c98def87d": {
+            "gate": "319fac04-b8fd-4599-86d7-9142b308dd45",
+            "pin": "1a297a5f-b229-4991-8913-9937de03ef1e"
+        },
+        "5a9f3c2c-00f7-4b4f-8735-16f5eb1df892": {
+            "gate": "319fac04-b8fd-4599-86d7-9142b308dd45",
+            "pin": "00546af2-bd15-4db7-a384-d461851797a0"
+        },
+        "5df74ccd-06bf-4d80-bab0-99872af6af75": {
+            "gate": "319fac04-b8fd-4599-86d7-9142b308dd45",
+            "pin": "184c421d-4b83-4216-b985-1be008c12446"
+        },
+        "baed0a5d-155e-4b1e-8072-07452f59215e": {
+            "gate": "319fac04-b8fd-4599-86d7-9142b308dd45",
+            "pin": "9acc2e2b-68f0-4a39-9e5b-a36f3bb28915"
+        },
+        "c27d1a44-da14-40dd-a900-528bee2986bb": {
+            "gate": "319fac04-b8fd-4599-86d7-9142b308dd45",
+            "pin": "ee3d235f-456f-43c6-adc7-43795263efce"
+        },
+        "da13b3b2-8484-476e-948e-a02b11124232": {
+            "gate": "319fac04-b8fd-4599-86d7-9142b308dd45",
+            "pin": "42142271-927d-4393-9381-30be4bee8a0e"
+        },
+        "ddb5f766-8e4e-4f76-a9f3-5248522469d6": {
+            "gate": "319fac04-b8fd-4599-86d7-9142b308dd45",
+            "pin": "39c9fd6b-e3ac-4355-be8b-0b18f4274300"
+        },
+        "e1f2904c-e5c5-4dd4-9711-7577d9e9b55e": {
+            "gate": "319fac04-b8fd-4599-86d7-9142b308dd45",
+            "pin": "05f6dcf8-ca61-46ed-9b5f-92e01b9c7010"
+        },
+        "e46e2d87-f5b9-45ff-9624-bd3dc12789b3": {
+            "gate": "319fac04-b8fd-4599-86d7-9142b308dd45",
+            "pin": "641f782f-e860-41ab-bbce-0a12563e967a"
+        },
+        "ef928cb0-7257-4711-83d1-090d5a1f73ec": {
+            "gate": "319fac04-b8fd-4599-86d7-9142b308dd45",
+            "pin": "311cb4ec-11ef-4645-af4a-0b2000e5b2a8"
+        },
+        "f072bef3-94e8-422c-920f-b2386a0a68d3": {
+            "gate": "319fac04-b8fd-4599-86d7-9142b308dd45",
+            "pin": "019907a8-9f06-4315-8dc8-6094f456ef15"
+        },
+        "f30c057c-542f-4ac9-9e8f-64e09596d68d": {
+            "gate": "319fac04-b8fd-4599-86d7-9142b308dd45",
+            "pin": "0e858030-8c94-4557-8d09-a033fee4ac3e"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "32e05285-1010-483d-9ff5-6e3276cc124c",
+    "value": [
+        false,
+        ""
+    ]
+}

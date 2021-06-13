@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "4a8f9062-17ba-4d2e-b1ea-7a03beea814b": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "fee5ff5e-0377-4138-b3dc-d803f1a94271"
+        }
+    },
+    "manufacturer": "Analog Devices",
+    "name": "ADuM260N",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "optocoupler"
+    ],
+    "type": "entity",
+    "uuid": "39c30d66-476c-410f-a25b-9382667e1e61"
+}
