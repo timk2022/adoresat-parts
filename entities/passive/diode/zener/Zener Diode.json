@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "0bf94e6e-c553-4331-85ec-298d30fd605f": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "70a8a43b-a664-4846-8aab-77a003fc440c"
+        }
+    },
+    "manufacturer": "",
+    "name": "Zener Diode",
+    "prefix": "D",
+    "tags": [
+        "passive",
+        "zenerr"
+    ],
+    "type": "entity",
+    "uuid": "5796e0e1-213c-4028-9488-8347b4c571ed"
+}
